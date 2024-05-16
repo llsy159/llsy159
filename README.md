@@ -3,7 +3,7 @@
 - Undergraduate researcher in **🌌[Sejong University](http://www.sejong.ac.kr/)**(2022.5 ~ 2022.12)
 - **[Boost Camp](https://boostcamp.connect.or.kr) AI TECH 5th** boostcamper in [Naver Connect](https://www.connect.or.kr)(2023.3 ~ 2023.8)
 - Recomm<<end Project in Sejong Capstone(2023.11 ~ 2024.2)
-- Expected to graduate(2024.08)
+- Expected to graduate from Sejong University(2024.08)
   
 <!--
 **llsy159/llsy159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
